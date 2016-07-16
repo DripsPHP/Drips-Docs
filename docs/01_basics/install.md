@@ -65,3 +65,11 @@ php drips install
 ```
 php drips env prod
 ```
+
+# Drips aktualisieren (Update)
+
+Mithilfe des folgenden Kommandos kann Drips geupdated werden:
+
+```
+php drips update
+```
