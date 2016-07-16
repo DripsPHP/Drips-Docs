@@ -43,6 +43,12 @@ Als erstes wählst du eine Umgebung (entweder *Development* oder *Production*) a
 
 Danach drückst du auf den Button, um den Installationsvorgang zu starten. Nachdem die Installation erfolgreich abgeschlossen wurde, kannst du mit der Entwicklung deiner Drips-Anwendung loslegen.
 
+> Sollte deine Installation fehlschlagen, kannst du im `install.log` nachsehen woran es liegt.
+
+> Wird keine Log-Datei angelegt, stimmten auf jeden Fall deine Verzeichnisberechtigungen nicht (Drips hat keine Berechtigungen die Datei anzulegen)
+
+> Sollte dir der Inhalt der Log-Datei nicht weiterhelfen, kannst du sie uns gerne zukommen lassen, damit wir eine Lösung finden können.
+
 ## Manuelle Installation
 
 Wenn der Installationsvorgang fehlschlägt oder du die Installation lieber manuell vornimmst, kannst du dies wie folgt machen.
