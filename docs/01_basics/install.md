@@ -7,13 +7,13 @@ Wenn du einen lokalen Webserver verwendest, kannst du es natürlich auch dort in
 
 Beachte vor der Installation bitte folgendes:
 
-  - du benötigst einen Apache-<small>*)</small> oder NGINX-Webserver <small>*)</small>
+  - du benötigst einen Apache-*) oder NGINX-Webserver *)
   - du benötigst PHP 5.5 oder höher
   - der Webserver/Drips benötigt Vollzugriff auf das Drips-Verzeichnis (z.B.: Berechtigungen auf `0777` setzen)
 
 > **Achtung:** nach der Installation von Drips solltest du (aus Sicherheitsgründen) deinen Document-Root auf das `public`-Verzeichnis legen.
 
-<small>
+
 *) wenn du einen NGINX-Server verwendest benötigst du folgende Konfiguration:
 
 ```nginx
@@ -25,7 +25,7 @@ location / {
 ```
 
 *) wenn du einen Apache-Server verwendest musst du `AllowOverride All` in deiner Konfiguration festlegen.
-</small>
+
 
 ## Einfache Installation
 
