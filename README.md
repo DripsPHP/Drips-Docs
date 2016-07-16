@@ -4,9 +4,13 @@
 
 ## Inhaltsverzeichnis
 
-### Grundlegendes
+### Einführung
 
-- [Was ist Drips?](docs/01_basics/about.md)
-- [Installation](docs/01_basics/install.md)
-- [Konfiguration](docs/01_basics/config.md)
-- [Aufbau und Struktur](docs/01_basics/structure.md)
+- [Was ist Drips?](docs/01_intro/about.md)
+- [Installation](docs/01_intro/install.md)
+- [Konfiguration](docs/01_intro/config.md)
+- [Aufbau und Struktur](docs/01_intro/structure.md)
+
+### Grundlagen
+
+ - [Routing](docs/02_basics/routing.md)
