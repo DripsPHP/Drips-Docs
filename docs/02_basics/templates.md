@@ -4,7 +4,7 @@ Drips verwendet [Smarty](http://smarty.net) als Template-Engine. Dementsprechend
 
 ## Widgets
 
-Drips bietet zusätzlich zur Smarty-Funktionalität auch ein Widget-System. Ein Widget ist ähnlich einem Include, jedoch kann es einerseits durch Angabe von Parametern individuell angepasst werden und außerdem kann ein Widget auch Logik (wie ein Controller) enthalten.
+Drips bietet zusätzlich zur Smarty-Funktionalität auch ein Widget-System. Ein Widget ist ähnlich einem Include, jedoch kann es einerseits durch Angabe von Parametern individuell angepasst werden außerdem kann ein Widget auch Logik (wie einen Controller) enthalten.
 
 ```php
 <?php
