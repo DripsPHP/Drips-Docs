@@ -45,7 +45,7 @@ Danach drückst du auf den Button, um den Installationsvorgang zu starten. Nachd
 
 > Sollte deine Installation fehlschlagen, kannst du im `install.log` nachsehen woran es liegt.
 
-> Wird keine Log-Datei angelegt, stimmten auf jeden Fall deine Verzeichnisberechtigungen nicht (Drips hat keine Berechtigungen die Datei anzulegen)
+> Wird keine Log-Datei angelegt, stimmen auf jeden Fall deine Verzeichnisberechtigungen nicht (Drips hat keine Berechtigungen die Datei anzulegen)
 
 > Sollte dir der Inhalt der Log-Datei nicht weiterhelfen, kannst du sie uns gerne zukommen lassen, damit wir eine Lösung finden können.
 
