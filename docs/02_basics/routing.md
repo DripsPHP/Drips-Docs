@@ -63,6 +63,8 @@ $app->router->add('name_der_route', '/url/[auto]', function(){
 
 Alle weiteren Urls die wie die gegebene Url beginnen werden an die Funktion gereicht, wobei jeder Teil (zwischen den Slashes) als Parameter an die jeweilige Funktion weitergegeben wird.
 
+> Beim Automatischen Routing muss ein `Drips\MVC\RouteController` verwendet werden, anstelle des gewöhnlichen Controllers (siehe [MVC](mvc.md)).
+
 ## Routen einschränken
 
 Die Routen können mehrfach eingeschränkt werden:
