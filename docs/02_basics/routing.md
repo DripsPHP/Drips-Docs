@@ -106,7 +106,7 @@ $url = route('name_der_route', [
 
 ### Assets
 
-Auch die Pfade zu Assets (JavaScripts, Stylesheets, Bildern, usw.) kann dynamisch generiert werden (ausgehend vom public-Verzeichnis).
+Auch die Pfade zu Assets (JavaScripts, Stylesheets, Bildern, usw.) können dynamisch generiert werden (ausgehend vom public-Verzeichnis).
 
 ```php
 <?php
