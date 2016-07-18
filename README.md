@@ -15,3 +15,4 @@
 
  - [Routing](docs/02_basics/routing.md)
  - [MVC (Model-View-Controller)](docs/02_basics/mvc.md)
+ - [Templates](docs/02_basics/templates.md)
