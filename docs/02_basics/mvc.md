@@ -31,7 +31,7 @@ class News extends Model {
 }  
 ```
 
-Ein News-Model können alle Newseinträge oder ein spezieller Eintrag abgefragt werden.
+Ein News-Model kann alle Newseinträge oder einen speziellen Eintrag abgefragen.
 Ein News-Model-Objekt sollte/kann genau einem Eintrag entsprechen mit zugehörigen Gettern und Settern.
 
 > Für eine Datenbank-Kopplung zwischen Model und Datenbank siehe [ORM/Entities](../03_database/orm.md)).
