@@ -2,7 +2,7 @@
 
 Drips ist ein modulares PHP-Framework und bietet somit vorgefertigte Funktionen für die Entwicklung von Webanwendungen mittels PHP.
 
-Wenn du bereits einmal eine Webseite oder eine Webanwendung mit PHP programmiert hast, weißt du vielleicht dass es sehr viel Arbeit ist, obwohl es eigentlich immer wieder das gleiche ist.
+Wenn du bereits einmal eine Webseite oder eine Webanwendung mit PHP programmiert hast, weißt du vielleicht dass es sehr viel Arbeit ist, obwohl es eigentlich immer wieder das Gleiche ist.
 Egal ob es sich um einen Blog, ein Gästebuch oder ein Kontaktformular handelt, der Grundablauf ist immer der gleiche. Vereinfacht gesagt geht man in den meisten Fällen wie folgt vor:
 
 1. HTML-Formular erstellen
